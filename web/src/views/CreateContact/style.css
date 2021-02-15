@@ -1,0 +1,49 @@
+.voltar {
+    margin-right: auto;
+    padding-bottom: 50px !important;
+}
+
+label {
+    font-size: 14px;
+}
+
+.contato input[type=text] {
+    display: block;
+    border: 1px solid #e4e4e4;
+    border-radius: 3px;
+    height: 35px;
+    width: 100%;
+    max-width: auto;
+    padding: 8px;
+}
+
+input[type=text]:focus {
+    border: 1px solid #878ddf !important;
+    border-radius: 3px;
+}
+
+.title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #4b4b4b;
+}
+
+.criar-contato .contato {
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+    list-style: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    color: #4b4b4b;
+    text-decoration: none;
+}
+
+.salvar {
+    margin: auto !important;
+    margin-left: 15px;
+}
+
+.next {
+    margin: auto;
+    margin-left: 15px;
+}

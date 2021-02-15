@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-y: none;
+}
+
+body {
+    font-size: 14px;
+    background: #f1f1f1 !important;
+    overflow-y: none;
+}
+
+.Root {
+    background-color: #ffffff;
+    border: 1px solid #e2e2e2;
+    height: 630px;
+    width: auto;
+    display: flex;
+    overflow-y: auto;
+}

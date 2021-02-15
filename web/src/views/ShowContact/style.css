@@ -1,0 +1,72 @@
+.voltar a {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: #9c9191;
+
+    position: absolute;
+    margin-top: 30px;
+}
+
+.voltar a:hover {
+    color: #878ddf;
+    text-decoration: none;
+}
+
+.circle {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    background: #e2e2e2;
+
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+
+.circle img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border: 3px solid #e2e2e27a;
+}
+
+.lista-contato, .lista-endereco {
+    margin: auto;
+    margin-top: 30px;
+    list-style: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    color: #4b4b4b;
+    text-decoration: none;
+}
+
+.lista-contato li, .lista-endereco li {
+    margin-bottom: 10px;
+}
+
+.lista-endereco {
+    float: right;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    padding-right: 30px;
+}
+
+hr {
+    border: 1px solid #e2e2e27a;
+    background: #e2e2e27a;
+    margin-right: 30px;
+    margin-top: 20px;
+}
+
+.buttons {
+    margin-top: 15px;
+}
+
+
+.editar {
+    margin-right: 20px;
+}
+
+.editar:hover, .deletar:hover {
+    text-decoration: none;
+}

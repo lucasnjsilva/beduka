@@ -1,0 +1,36 @@
+.voltar {
+    margin-right: auto;
+    padding-bottom: 50px !important;
+}
+
+label {
+    font-size: 14px;
+}
+
+input[type=text] {
+    margin-top: 2px;
+    margin-bottom: 15px;
+    display: block;
+    border: 1px solid #e4e4e4;
+    border-radius: 3px;
+    height: 30px;
+    max-width: auto;
+    padding: 8px;
+}
+
+input[type=text]:focus {
+    border: 1px solid #878ddf !important;
+    border-radius: 3px;
+}
+
+input[type=file] {
+    font-size: 14px;
+    display: block;
+    max-width: auto;
+    cursor: pointer;
+}
+
+.salvar {
+    margin: auto;
+    margin-top: 30px;
+}
